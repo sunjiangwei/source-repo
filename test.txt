@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 lllllllll
 ======new sunjiangwei
+=======
+===================
+sdfinew sunjiangwei
+>>>>>>> master
 file
 线上编辑
 hahhaha
